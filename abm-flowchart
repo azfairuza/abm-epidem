@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-11T16:59:15.322Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="93HP48prjSrtm1JCds3K" version="17.4.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-11T17:07:34.853Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="NVytWEdLrOhr0Dl3PK2l" version="17.4.2" type="github" pages="2">
   <diagram id="068n2O2DV5F4_U9aYswh" name="Main">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -59,42 +59,48 @@
           <mxGeometry x="447.5" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-17" value="Global variables" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;curveFitting=0.95;simplification=0;fontSize=14;strokeWidth=3;rounded=0;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="40" width="160" height="360" as="geometry">
+          <mxGeometry x="210" y="40" width="180" height="420" as="geometry">
             <mxRectangle x="210" y="40" width="130" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-18" value="number current infected " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="30" width="160" height="30" as="geometry" />
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-19" value="number new infected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="60" width="160" height="30" as="geometry" />
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-20" value="number total infected" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="90" width="160" height="30" as="geometry" />
+          <mxGeometry y="90" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-21" value="number new death" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="120" width="160" height="30" as="geometry" />
+          <mxGeometry y="120" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-22" value="number total death" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="150" width="160" height="30" as="geometry" />
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-23" value="number new recovery" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="180" width="160" height="30" as="geometry" />
+          <mxGeometry y="180" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-24" value="number total recovery" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="210" width="160" height="30" as="geometry" />
+          <mxGeometry y="210" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-25" value="number total vaccinated" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="240" width="160" height="30" as="geometry" />
+          <mxGeometry y="240" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-26" value="virus transmission" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="270" width="160" height="30" as="geometry" />
+          <mxGeometry y="270" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-27" value="virus severity" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="300" width="160" height="30" as="geometry" />
+          <mxGeometry y="300" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-28" value="virus lethality" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" parent="CzAWam6qkUCb5t4m0-ue-17" vertex="1">
-          <mxGeometry y="330" width="160" height="30" as="geometry" />
+          <mxGeometry y="330" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuaAWGfNgRTMe1kVJz8Z-1" value="Vaccination max number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" vertex="1" parent="CzAWam6qkUCb5t4m0-ue-17">
+          <mxGeometry y="360" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DuaAWGfNgRTMe1kVJz8Z-2" value="Vaccination probability" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;curveFitting=0.95;simplification=0;fontSize=14;rounded=0;fontColor=#E4FDE1;" vertex="1" parent="CzAWam6qkUCb5t4m0-ue-17">
+          <mxGeometry y="390" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CzAWam6qkUCb5t4m0-ue-29" value="Turtles Attributes" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;curveFitting=0.95;simplification=0;fontSize=14;strokeWidth=3;glass=0;shadow=0;rounded=0;noLabel=0;autosize=0;resizeWidth=0;resizeHeight=0;sketchStyle=rough;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;" parent="1" vertex="1">
           <mxGeometry x="640" y="40" width="140" height="270" as="geometry">
