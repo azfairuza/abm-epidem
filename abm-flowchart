@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T02:20:42.558Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="H2sb7JHFe5tEwTzvjj7Z" version="17.4.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:59:36.752Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36 Edg/100.0.1185.50" etag="LLxfjs4-GMyVM2NP1SNo" version="17.4.4" type="github" pages="3">
   <diagram id="068n2O2DV5F4_U9aYswh" name="Main">
     <mxGraphModel dx="868" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#114B5F" math="0" shadow="0">
       <root>
@@ -302,7 +302,7 @@
         <mxCell id="6W0i4orGhTpVus9k9Q3O-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" parent="1" source="3wGn-JiX4kMc1XvkqF8p-10" target="6W0i4orGhTpVus9k9Q3O-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3wGn-JiX4kMc1XvkqF8p-10" value="&lt;b&gt;&amp;nbsp;move every person with random direction&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;strokeWidth=3;simplification=0;curveFitting=0.95;spacingLeft=0;spacingRight=0;" parent="1" vertex="1">
+        <mxCell id="3wGn-JiX4kMc1XvkqF8p-10" value="&lt;b&gt;&amp;nbsp;move and&lt;br&gt;Health degrade for living person&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;strokeWidth=3;simplification=0;curveFitting=0.95;spacingLeft=0;spacingRight=0;" parent="1" vertex="1">
           <mxGeometry x="399" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6W0i4orGhTpVus9k9Q3O-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=23;fontColor=#E4FDE1;strokeColor=#028090;fillColor=#F45B69;" parent="1" source="3wGn-JiX4kMc1XvkqF8p-12" target="6W0i4orGhTpVus9k9Q3O-9" edge="1">
